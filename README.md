@@ -1,6 +1,6 @@
 # Image DTFT, Denoising & Compression Script
 
-## Contributors
+## Authors
 * Ahmed Elehwany
 
 * Muhammad Huzaifa Elahi
