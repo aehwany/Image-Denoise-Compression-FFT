@@ -1,9 +1,9 @@
 # Image DTFT, Denoising & Compression Script
 
 ## Contributors
-Ahmed Elehwany
+* Ahmed Elehwany
 
-Muhammad Huzaifa Elahi
+* Muhammad Huzaifa Elahi
  
 ## Usage
 ```python fft.py [-m mode] [-i image]```
